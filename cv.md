@@ -7,3 +7,12 @@ Tsotne Chogovadze
   * Email: chogovadzetsotne@gmail.com
 
 I'm a very beginner of development and my goal is to become a lead front-end developer
+
+### __Skills__
+
+  * HTML/CSS, Bootstrap  
+  * JS Basics
+
+### __Code examples__
+
+  * [codepen profile](https://codepen.io/tsoppa)
