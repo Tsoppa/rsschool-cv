@@ -31,3 +31,4 @@ Studying informatics at the University of Georgia (UG)
 
   * Georgian is native  
   * English B2  
+  * Basic Russian  
